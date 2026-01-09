@@ -14,7 +14,7 @@ Mục tiêu chính là **so sánh hiệu quả giữa Softmax Loss và Sigmoid L
 
 ## 📊 Dữ liệu (Datasets)
 
-1.  **Pretraining:** [MIMIC-CXR](https://physionet.org/content/mimic-cxr/)
+1.  **Pretraining:** [MIMIC-CXR](https://www.kaggle.com/datasets/simhadrisadaram/mimic-cxr-dataset)
     * 257,873 cặp ảnh X-quang và báo cáo bệnh lý.
     * Tiền xử lý: Cắt ngẫu nhiên câu trong báo cáo, biến đổi ảnh (Resize, Crop, Flip).
 
